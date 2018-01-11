@@ -3,3 +3,5 @@ New line added, 1:54
 Third line, 2:03
 Remove word from first line, 2:06
 
+Nex line added, 2:09
+
