@@ -1,2 +1,5 @@
-cold and dry, but I like the color here.
+cold & dry, but I like the color here.
 New line added, 1:54
+Third line, 2:03
+Remove word from first line, 2:06
+
